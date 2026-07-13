@@ -1,0 +1,11 @@
+filename,word_count,top_5_keywords
+044.txt,416,"['economy', 'japan', 'recession', 'into', 'but']"
+045.txt,319,"['us', 'production', 'prices', 'refinery', 'crude']"
+046.txt,305,"['month', 'economy', 'demand', 'industrial', 'output']"
+050.txt,314,"['nestle', 'sales', 'swiss', 'has', 'water']"
+051.txt,297,"['fiat', 'ferrari', 'maserati', 'said', 'could']"
+052.txt,504,"['italy', 'will', 'has', 'spending', 'government']"
+078.txt,272,"['fiat', 'gm', 'deal', 'have', 'sell']"
+079.txt,261,"['id', 'fraud', 'complaints', 'theft', 'consumers']"
+085.txt,239,"['figures', 'december', 'year', 'lending', 'november']"
+086.txt,195,"['manufacturing', 'survey', 'said', 'its', 'cips']"
